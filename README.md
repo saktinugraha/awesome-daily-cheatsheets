@@ -22,8 +22,10 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 ### </> Programming Languages
 
 - [Go] (Coming Soon...)
-- [JavaScript] (Coming Soon...)
+- [JavaScript](js.md)
 - [TypeScript] (Coming Soon...)
+- [Java] (Coming Soon...)
+- [Kotlin] (Coming Soon...)
 
 ### 📦 Backend Frameworks
 
@@ -39,6 +41,11 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 - [Express.js] (Coming Soon...)
 - [Nest.js] (Coming Soon...)
 
+#### Java & Kotlin
+
+- [Spring] (Coming Soon...)
+- [Quarkus] (Coming Soon...)
+
 ### 🗄️ Databases
 
 #### SQL
@@ -50,6 +57,7 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 
 - [MongoDB] (Coming Soon...)
 - [Redis] (Coming Soon...)
+- [Cassandra] (Coming Soon...)
 
 ### 🖼️ Frontend Frameworks
 
