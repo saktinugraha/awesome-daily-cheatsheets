@@ -17,7 +17,7 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 ### 💻 Command Line Interface
 
 - [iTerm2](iterm2.md)
-- [Bash] (Coming Soon...)
+- [Bash](bash.md)
 
 ### </> Programming Languages
 
