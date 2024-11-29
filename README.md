@@ -21,7 +21,7 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 
 ### </> Programming Languages
 
-- [Go] (Coming Soon...)
+- [Go](go.md)
 - [JavaScript](js.md)
 - [TypeScript] (Coming Soon...)
 - [Java] (Coming Soon...)
