@@ -1,5 +1,3 @@
-Here’s your Docker documentation converted into markdown format with tables for clarity:
-
 # Docker Command Reference
 
 ## Docker

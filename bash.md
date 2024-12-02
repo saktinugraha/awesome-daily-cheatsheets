@@ -1,5 +1,3 @@
-Here is the content converted into a table format in Markdown:
-
 # Bash Documentation
 
 ## Shortcuts and History
