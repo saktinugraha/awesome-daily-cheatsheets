@@ -90,7 +90,7 @@ Feel free to take a look. You might learn new things. It provide a quick way to 
 - [Docker](docker.md)
 - [Kubernetes] (Coming Soon...)
 - [HCL] (Coming Soon...)
-- [AWS CLI] (Coming Soon...)
+- [AWS CLI](aws.md)
 - [Heroku CLI] (Coming Soon...)
 - [GCP CLI] (Coming Soon...)
 - [Azure CLI] (Coming Soon...)
